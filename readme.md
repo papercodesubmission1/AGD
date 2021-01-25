@@ -1,4 +1,4 @@
-please install dgl package before running code 
+please install following package before running code 
 
 pytorch == 1.5.0
 deeprobust == 0.1.1
